@@ -1,2 +1,33 @@
-# Data-Visualization-using-Seaborn
-Data Visualization using Seaborn
+# Data Visualization Using Seaborn
+
+## Overview
+
+Seaborn notebook for Python data visualization practice.
+
+Project type: Jupyter notebook project.
+
+## What This Repository Contains
+
+- `Data_Visualization_using_seaborn.ipynb`
+- `README.md`
+
+## Tech Stack
+
+Jupyter Notebook
+
+## How To Run / Use
+
+Open the notebook in Jupyter/VS Code and run the cells from top to bottom:
+
+- Data_Visualization_using_seaborn.ipynb
+
+## Current Status
+
+This is a small repository with limited source files. Treat it as a utility, notebook, or practice artifact unless expanded.
+
+## Notes For Reviewers
+
+- Start with the overview and key files above.
+- If this is a notebook repository, run it in a clean Jupyter or VS Code notebook environment.
+- If this is a frontend app, run the install/build commands before judging the project.
+- Some older practice repositories are kept public for learning history, not as primary portfolio pieces.
